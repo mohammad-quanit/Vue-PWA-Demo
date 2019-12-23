@@ -1,4 +1,6 @@
-# todo-app
+# Progressive Crud Web App on Vue, Firebase, Workbox
+
+![Demo](./screenshot-practicedb-18881.firebaseapp.com-2019.12.23-21_17_37.png)
 
 ## Project setup
 ```
